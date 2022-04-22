@@ -1,5 +1,4 @@
 # CNF Converter
-### Question 6
 
 ## About
 This program was written in Java (JDK 15). The version of JUnit we are using for tests is 5.4.
